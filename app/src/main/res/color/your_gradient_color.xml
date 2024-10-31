@@ -1,0 +1,5 @@
+<!-- res/color/gradient.xml -->
+<gradient xmlns:android="http://schemas.android.com/apk/res/android"
+    android:startColor="#FF0000"
+    android:endColor="#00FF00"
+    android:angle="45"/>
